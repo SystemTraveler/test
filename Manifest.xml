@@ -1,0 +1,9 @@
+<Manifest>
+    <launch>
+        <bin type="darwin-macho-arm64">bin/main.py</bin>
+    </launch>
+    <sudo>false</sudo>
+    <theme>
+        <fullscreen>false</fullscreen>
+    </theme>
+</Manifest>
